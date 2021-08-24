@@ -17,3 +17,5 @@ Imports: bookdown,
     here
 Suggests: devtools,
     git2r
+URL: https://github.com/Jake-Eisaguirre/mypaper
+BugReports: https://github.com/Jake-Eisaguirre/mypaper/issues
